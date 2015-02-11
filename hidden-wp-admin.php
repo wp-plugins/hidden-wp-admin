@@ -5,7 +5,7 @@
  * Description: Hide WP admin, login and signup from all users except those you allow.
  * Version: 1.2
  * Author: The Beaver Builder Team
- * Author URI: https://www.wpbeaverbuilder.com/
+ * Author URI: https://www.wpbeaverbuilder.com/?utm_source=external&utm_medium=hidden-wp-admin&utm_campaign=plugins-page
  * License: GPL2+
  * Text Domain: hidden-wp-admin
  */
