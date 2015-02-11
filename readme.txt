@@ -47,13 +47,14 @@ It is possible to lock yourself out of your site if you set the login page to re
 
 == Changelog ==
 
-= Version 1.0 =
+= Version 1.1 =
 
 Initial release.
 
-== Upgrade Notice ==
+== Changelog ==
 
-= Version 1.0 =
+= Version 1.2 =
 
-Initial release.
+- Fixed a bug that broke logging out in some cases. 
+- Added update message to settings page.
 
